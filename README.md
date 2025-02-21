@@ -11,3 +11,5 @@ Neel Nanda - [What is Transformer - Technical](https://www.youtube.com/watch?v=b
 Neel Nanda - [Walkthrough of a Mathematical Framework](https://www.youtube.com/watch?v=KV5gbOmHbjU&t=36s&pp=ygUXdHJhbnNmb3JtZXJzIG5lZWwgbmFuZGE%3D)
 
 Krish Naik - [Complete Transformers For NLP Deep Learning One Shot With Handwritten Notes](https://www.youtube.com/watch?v=3bPhDUSAUYI)
+
+Sebastian Raschka - [LLM Research Papers](https://sebastianraschka.com/blog/2024/llm-research-papers-the-2024-list.html)
