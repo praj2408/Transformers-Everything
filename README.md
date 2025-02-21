@@ -12,4 +12,4 @@ Neel Nanda - [Walkthrough of a Mathematical Framework](https://www.youtube.com/w
 
 Krish Naik - [Complete Transformers For NLP Deep Learning One Shot With Handwritten Notes](https://www.youtube.com/watch?v=3bPhDUSAUYI)
 
-Sebastian Raschka - [LLM Research Papers](https://sebastianraschka.com/blog/2024/llm-research-papers-the-2024-list.html)
+Sebastian Raschka - [LLM Research Papers 2024 List](https://sebastianraschka.com/blog/2024/llm-research-papers-the-2024-list.html)
